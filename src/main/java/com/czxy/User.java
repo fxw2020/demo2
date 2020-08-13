@@ -2,11 +2,11 @@ package com.czxy;
 
 /**
  * Created by legion on 2020/8/13.
- * 用户
+ * 用户数据
  */
 public class User {
     private Integer id ;
-    private String  name ;
+    private String  name="1223" ;
     private Integer  age;
     private String  sex;
 
